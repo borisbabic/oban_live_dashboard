@@ -19,7 +19,7 @@ by adding `oban_live_dashboard` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:oban_live_dashboard, "~> 0.1.0"}
+    {:oban_live_dashboard, "~> 0.2.0"}
   ]
 end
 ```
